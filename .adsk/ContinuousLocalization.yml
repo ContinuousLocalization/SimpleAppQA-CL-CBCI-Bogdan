@@ -7,7 +7,7 @@
 #
 ######################### End of Header ###############################################
 common:
-  branch_section:
+  branch_section: 
     pseudo_language: [hrv]
     maintainer: [sprysab]
     ignore_this_branch: false
